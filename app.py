@@ -24,7 +24,7 @@ st.sidebar.markdown("This application is a Streamlit dashboard used "
 
 st.subheader("tweet summary")
 tweet_to_summarize = st.text_area("Enter the tweet to summarize")
-num_sentences = st.sidebar.slider("Number of sentences in the summary", 1, 10, 2)
+num_sentences = st.sidebar.slider("Number of sentences in the summary", 1, 23, 2)
 
 if tweet_to_summarize:
     parser = PlaintextParser.from_string(tweet_to_summarize, Tokenizer("english"))
