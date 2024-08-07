@@ -16,7 +16,7 @@ st.markdown("This application is a Streamlit dashboard used "
             "to analyze sentiments and text summarization 🦅 ")
 st.sidebar.markdown("This application is a Streamlit dashboard used "
             "to analyze sentiments and text summarization 🦅 ")
-###21212123
+
 
 ########################################
 #tweet summary
