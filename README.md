@@ -21,6 +21,6 @@ environment requirements : [requirements](https://github.com/jwanxanqak/Sentimen
 The deployment will take place on 8/7/2024 on the streamlit cloud community.
 [Deployment](https://4tg3xpkrsk3dxu35hcgefv.streamlit.app/)
 
-The version with Docker on the render branch
+The version with Docker on the [render branch](https://github.com/jwanxanqak/Sentiment-analysis-and-text-summarization/tree/Render)
 
 
